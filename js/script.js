@@ -1,3 +1,4 @@
+require('es6-promise').polyfill();
 import tabs from './modules/tabs';
 import calculator from './modules/calculator';
 import cards from './modules/cards';

@@ -5,6 +5,9 @@
     padding: 0;
     font-family: Roboto, sans-serif;
 }
+:root {
+    --main-color: #59CE8F;
+}
 a {
     text-decoration: none;
 }
@@ -88,7 +91,7 @@ a {
     bottom: -1px;
     z-index: -1;
     height: 8px;
-    background: #54ed39;
+    background: var(--main-color);
 }
 .header__link:last-child {
     margin-right: 0;
@@ -164,7 +167,7 @@ a {
     right: -177px;
     width: 550px;
     height: 359px;
-    background: rgba(251, 254, 93, .8);
+    background: #FCF8E8;
     padding: 50px;
     font-size: 24px;
     font-weight: 300;
@@ -343,7 +346,7 @@ a {
 }
 .calculating__choose-item_active {
     color: #fff;
-    background-color: #54ed39;
+    background-color: var(--main-color);
 }
 .calculating__choose_medium {
     width: 743px;

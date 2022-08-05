@@ -3,23 +3,23 @@
     {
       "img": "img/tabs/vegy.jpg",
       "altimg": "vegy",
-      "title": "Меню 'Фитнес'",
-      "descr": "Меню 'Фитнес' - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Продукт активных и здоровых людей. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!",
-      "price": 9
+      "title": "Menu 'Fitness'",
+      "descr": "Menu 'Fitness' - innovative approach for food preparation: rich in fruits and vegetables has been scientifically proven to provide numerous health benefits, such as reducing your risk of several chronic diseases and keeping your body healthy.",
+      "price": 255
     },
     {
       "img": "img/tabs/post.jpg",
       "altimg": "post",
-      "title": "Меню 'Постное'",
-      "descr": "Меню 'Постное' - это тщательный подбор ингредиентов: полное отсутствие продуктов животного происхождения, молоко из миндаля, овса, кокоса или гречки, правильное количество белков за счет тофу и импортных вегетарианских стейков.",
-      "price": 14
+      "title": "Menu 'Non-diary",
+      "descr": "Menu 'Non-diary' - This entire menu plan is completely dairy free. It’s also optionally egg-free, gluten-free, tree nut-free, peanut-free, and soy-free. Note that eggs are recommended for a couple of the gluten-free options. ",
+      "price": 215
     },
     {
       "img": "img/tabs/elite.jpg",
       "altimg": "elite",
-      "title": "Меню 'Премиум'",
-      "descr": "В меню 'Премиум' мы используем не только красивый дизайн упаковки, но и качественное исполнение блюд. Красная рыба, морепродукты, фрукты - ресторанное меню без похода в ресторан!",
-      "price": 21
+      "title": "Menu 'Premium'",
+      "descr": "Menu 'Premium' - Emphasizes fruits, vegetables, whole grains, and fat-free or low-fat milk and milk products. Includes a variety of protein foods such as seafood, lean meats and poultry, eggs, beans and peas, nuts, and seeds. Is low in added sugars, sodium, saturated fats, trans fats, and cholesterol. ",
+      "price": 285
     }
   ],
   "requests": [
@@ -112,6 +112,41 @@
       "name": "jkl",
       "phone": "67",
       "id": 18
+    },
+    {
+      "name": "ui",
+      "phone": "78",
+      "id": 19
+    },
+    {
+      "name": "io",
+      "phone": "78",
+      "id": 20
+    },
+    {
+      "name": "jkk",
+      "phone": "90",
+      "id": 21
+    },
+    {
+      "name": "Anastasia",
+      "phone": "789",
+      "id": 22
+    },
+    {
+      "name": "h",
+      "phone": "5",
+      "id": 23
+    },
+    {
+      "name": "f",
+      "phone": "6",
+      "id": 24
+    },
+    {
+      "name": "5",
+      "phone": "6",
+      "id": 25
     }
   ]
 }
