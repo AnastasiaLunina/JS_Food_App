@@ -242,6 +242,34 @@
         </div>
     </div>
 
+    <div class="chat-widget">
+        <div class="chat-widget__area">
+            <div class="chat-widget__messages-container">
+                <div class="chat-widget__messages" id="chat-widget__messages">
+                    
+                        <!-- Сообщение от робота -->
+                        <div class="message message_bot">
+                            <div class="message__time"></div>
+                            <div class="message__text"></div>
+                        </div>
+                        <!-- Сообщение от клиента -->
+                        <div class="message message_client">
+                            <div class="message__time"></div>
+                            <div class="message__text"></div>
+                        </div>
+                   
+                </div>
+            </div>
+            <input id="chat-widget__input" class="chat-widget__input" placeholder="Type your message here">
+        </div>
+        <div class="chat-widget__side">
+            <div class="chat-widget__side-text">
+                Chat with us! We are online
+            </div>
+        </div>
+    </div>
+
+
     <footer class="footer">
         <div class="container">
             <div class="social">
@@ -273,6 +301,8 @@
             </div>
         </div>
     </div>
+
+    <script src="js/modules/chat.js"></script>
     <script src="js/bundle.js"></script>
 </body>
 </html>
